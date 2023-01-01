@@ -10,3 +10,7 @@ High-quality, verified tools that can be used for personal needs.
 2. [RillData](https://github.com/rilldata/rill-developer)
 
    A tool that makes it effortless to transform and explore your datasets with SQL, powered by DuckDB.
+   
+3. [Upscayl](https://github.com/upscayl/upscayl)
+
+   Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
